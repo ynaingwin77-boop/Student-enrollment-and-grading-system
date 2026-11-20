@@ -1,0 +1,15 @@
+# Python temporary files
+*.pyc
+__pycache__/
+
+# Environments
+.env
+venv/
+env/
+
+# Database & Media
+db.sqlite3
+/media/
+
+# VS Code settings
+.vscode/
